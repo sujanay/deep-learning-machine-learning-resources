@@ -4,3 +4,6 @@
 2. [Tensorflow and Deep Learning withou a PhD - Google](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 3. [Tensorflow and Deep Learning without a PhD II - Google](https://cloud.google.com/blog/products/gcp/learn-tensorflow-and-deep-learning-without-a-phd)
 3. [Introduction to Reinforcement Learning - OpenAI](https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is)
+
+
+[DS-GA 1002: Statistical and Mathematical Methods](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/index.html)
